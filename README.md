@@ -5,7 +5,12 @@
 
 Instructions to run the project can be found in the [**Usage**](#usage) section (at the last).
 
-**Website**: https://shorturl.at/hVing
+Model training results can be found in the [**Results**](#results) section (at the last).
+
+If the .ipynb file doesn't open in inbuilt github editor, you can check my code in this link 
+https://colab.research.google.com/drive/1AKtagHTiKVXlClUHg-jJcrs0zpi1tpKy?usp=sharing
+
+**Farmer Analytics & Advisory Website**: https://shorturl.at/hVing
 
 
 ### Edge AI-powered crop health monitoring and precision farming system
