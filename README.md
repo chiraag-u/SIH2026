@@ -10,8 +10,9 @@ Model training results can be found in the [**Results**](#results) section (at t
 If the .ipynb file doesn't open in inbuilt github editor, you can check my code in this link 
 https://colab.research.google.com/drive/1AKtagHTiKVXlClUHg-jJcrs0zpi1tpKy?usp=sharing
 
-**Farmer Analytics & Advisory Website**: https://shorturl.at/hVing
+Note: This AI model developed is a prototype, further datasets and fields would be added.
 
+**Farmer Analytics & Advisory Website**: https://tinyurl.com/Farmer-Advisory-SIH
 
 ### Edge AI-powered crop health monitoring and precision farming system
 
