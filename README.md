@@ -1,4 +1,7 @@
 # Smart Farming Assistant
+
+**Note: This AI model developed is a prototype; further datasets and fields would be added. As an example, just a few fields and datasets have been uploaded; in further rounds, complete and extended datasets will be used.**
+
 **Team Name**: Cipher Lords
 
 **Problem Statement ID**: SIH26180 - Agriculture, FoodTech & Rural Development
@@ -9,8 +12,6 @@ Model training results can be found in the [**Results**](#results) section (at t
 
 If the .ipynb file doesn't open in inbuilt github editor, you can check my code in this link 
 https://colab.research.google.com/drive/1AKtagHTiKVXlClUHg-jJcrs0zpi1tpKy?usp=sharing
-
-Note: This AI model developed is a prototype, further datasets and fields would be added.
 
 **Farmer Analytics & Advisory Website**: https://tinyurl.com/Farmer-Advisory-SIH
 
